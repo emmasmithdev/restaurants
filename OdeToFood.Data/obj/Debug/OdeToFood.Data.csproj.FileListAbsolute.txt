@@ -1,0 +1,6 @@
+C:\Users\EmmaSmith\Documents\Tutorials\C#\OdeToFood\OdeToFood.Data\bin\Debug\OdeToFood.Data.dll
+C:\Users\EmmaSmith\Documents\Tutorials\C#\OdeToFood\OdeToFood.Data\bin\Debug\OdeToFood.Data.pdb
+C:\Users\EmmaSmith\Documents\Tutorials\C#\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.csprojAssemblyReference.cache
+C:\Users\EmmaSmith\Documents\Tutorials\C#\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\EmmaSmith\Documents\Tutorials\C#\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.dll
+C:\Users\EmmaSmith\Documents\Tutorials\C#\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.pdb
