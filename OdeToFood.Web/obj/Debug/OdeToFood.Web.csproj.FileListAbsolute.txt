@@ -99,3 +99,8 @@ C:\Users\EmmaSmith\Documents\Tutorials\C#\OdeToFood\OdeToFood.Web\bin\System.Web
 C:\Users\EmmaSmith\Documents\Tutorials\C#\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.WebApi.dll
 C:\Users\EmmaSmith\Documents\Tutorials\C#\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.WebApi.pdb
 C:\Users\EmmaSmith\Documents\Tutorials\C#\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.WebApi.xml
+C:\Users\EmmaSmith\Documents\Tutorials\C#\OdeToFood\OdeToFood.Web\bin\EntityFramework.dll
+C:\Users\EmmaSmith\Documents\Tutorials\C#\OdeToFood\OdeToFood.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\EmmaSmith\Documents\Tutorials\C#\OdeToFood\OdeToFood.Web\bin\OdeToFood.Data.dll.config
+C:\Users\EmmaSmith\Documents\Tutorials\C#\OdeToFood\OdeToFood.Web\bin\EntityFramework.xml
+C:\Users\EmmaSmith\Documents\Tutorials\C#\OdeToFood\OdeToFood.Web\bin\EntityFramework.SqlServer.xml
